@@ -1,0 +1,21 @@
+# Environments
+.env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Distribution / Build
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE
+.vscode/
+.idea/
