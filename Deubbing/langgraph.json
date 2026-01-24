@@ -1,0 +1,9 @@
+{
+    "dependecies": [
+        "."
+    ],
+    "graph": {
+        "openai_agent": "./agent.py:agent"
+    },
+    "env": "../.env"
+}
