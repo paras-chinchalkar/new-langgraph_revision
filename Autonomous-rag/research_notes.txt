@@ -1,0 +1,22 @@
+=== Company Knowledge Base ===
+
+[Section: Products]
+- Copilot AI: An intelligent assistant that helps with productivity, search, and creativity.
+- Infocepts AI Suite: Tools for modular workflows, orchestration, and validated pipelines.
+
+[Section: Employees]
+- Paras: AI Engineer intern specializing in modular AI workflows, RAG pipelines, and orchestration.
+- Alice: Data Scientist focusing on NLP and model evaluation.
+
+[Section: Projects]
+- AI Travel Planner: Deployed on Streamlit Cloud with Docker/Kubernetes configs.
+- Project Torax: Open-source contribution to Google DeepMind.
+
+[Section: FAQs]
+Q: What is RAG?
+A: Retrieval-Augmented Generation combines external knowledge retrieval with generative models to produce more accurate and grounded responses.
+
+Q: Why use modular workflows?
+A: They improve scalability, validation, and reusability across AI systems.
+
+=== End of File ===
