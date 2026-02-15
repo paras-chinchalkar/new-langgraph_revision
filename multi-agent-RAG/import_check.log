@@ -1,0 +1,5 @@
+Error 1: No module named 'langchain_community.prompt'
+Found in langchain_core.prompts
+Not found in langchain.prompts
+Not found in langchain.agents
+Found in langgraph.prebuilt
