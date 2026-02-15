@@ -10,3 +10,4 @@ langgraph-cli[inmem]
 langchain-huggingface
 sentence-transformers
 faiss-cpu
+langgraph-supervisor
